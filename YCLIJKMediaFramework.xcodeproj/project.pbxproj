@@ -101,6 +101,7 @@
 		87820746229E9FE30028EBD4 /* YCLIJKMediaFramework */ = {
 			isa = PBXGroup;
 			children = (
+				87820779229E9FEF0028EBD4 /* YCLIJKMediaFramework */,
 				87820747229E9FE30028EBD4 /* AppDelegate.h */,
 				87820748229E9FE30028EBD4 /* AppDelegate.m */,
 				8782074A229E9FE30028EBD4 /* ViewController.h */,
@@ -130,6 +131,13 @@
 				8782076D229E9FE40028EBD4 /* Info.plist */,
 			);
 			path = YCLIJKMediaFrameworkUITests;
+			sourceTree = "<group>";
+		};
+		87820779229E9FEF0028EBD4 /* YCLIJKMediaFramework */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = YCLIJKMediaFramework;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
